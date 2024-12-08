@@ -151,16 +151,3 @@ Special thanks to:
 ### 📜 License  
 
 This project is licensed under the **MIT License**.  
-
----
-
-### 🤝 Contributions  
-
-We welcome contributions, issues, and feature requests!  
-Feel free to open an issue or submit a pull request on our [GitHub repository](https://github.com/yourusername/assistant-chatbot-using-groq).  
-
----
-
-### 📧 Contact  
-
-For questions, contact us at [youremail@example.com](mailto:youremail@example.com).  
